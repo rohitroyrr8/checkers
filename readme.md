@@ -49,3 +49,12 @@ curl https://get.ignite.com/rohitroyrr8/checkers@latest! | sudo bash
 - [Ignite CLI docs](https://docs.ignite.com)
 - [Cosmos SDK docs](https://docs.cosmos.network)
 - [Developer Chat](https://discord.gg/ignite)
+
+
+
+curl https://get.ignite.com/cli@v0.22.1! | bash
+
+sudo mv ignite /usr/local/bin
+
+ignite scaffold chain github.com/rohitroyrr/checkers
+
